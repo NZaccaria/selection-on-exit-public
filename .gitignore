@@ -1,1 +1,16 @@
 .DS_Store
+
+# CV source: lives here so this folder is the working directory,
+# but stays untracked — only the compiled PDF is published.
+Zaccaria_CV.tex
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.toc
