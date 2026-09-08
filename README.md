@@ -6,6 +6,7 @@ This version: September 2026
 
 - [Paper](Zaccaria_JMP.pdf)
 - [Slides](Zaccaria_slides.pdf)
+- [CV](Zaccaria_CV.pdf)
 
 ## Contact
 
