@@ -2,7 +2,7 @@
 
 Niccolò Zaccaria, Tilburg University
 
-This version: October 2026
+This version: November 2026
 
 - [Paper](Zaccaria_JMP.pdf)
 - [Slides](Zaccaria_slides.pdf)
